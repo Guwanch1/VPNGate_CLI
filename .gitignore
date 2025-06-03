@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+open_vpn_configs/
+vpnGate_servers.csv
