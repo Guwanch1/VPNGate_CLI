@@ -1,4 +1,36 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environment folders
+venv/
+env/
+.env/
+
+# VSCode settings
+.vscode/
+
+# JetBrains IDEs (PyCharm, IntelliJ, etc.)
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# OpenVPN config files you generate (optional)
 open_vpn_configs/
-vpnGate_servers.csv
+
+# Secrets or credentials
+*.pem
+*.key
+
